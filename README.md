@@ -12,6 +12,44 @@ I'm interested in creating reliable software, understanding how systems work, an
 * Strengthening my understanding of **APIs, databases, and backend development**
 * Building projects that help me grow as a **software developer and cybersecurity practitioner**
 
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+* Python
+* Java
+* SQL
+* JavaScript / TypeScript
+
+**Testing**
+
+* pytest
+* JUnit
+* Test-Driven Development (TDD)
+
+**Web & APIs**
+
+* REST APIs
+* HTML / CSS
+* React
+* FastAPI
+
+**Tools**
+
+* Git & GitHub
+* Maven
+* Docker
+* GitHub Actions
+* VS Code
+
+**Cybersecurity**
+
+* Authentication & password security
+* Security logging
+* Input validation
+* Secure software development
+
+
 
 
 <!--
