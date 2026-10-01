@@ -72,6 +72,12 @@ A full-stack application built with React and TypeScript, featuring input valida
 * API development and integration
 * CI/CD and developer tooling
 
+## 🤝 Let's Connect
+
+* 💼 [LinkedIn](YOUR-LINKEDIN-URL)
+* 📧 Email: dimphomtolo@gmail.com 
+
+
 
 
 
