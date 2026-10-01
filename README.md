@@ -63,6 +63,16 @@ A Python project built using Test-Driven Development (TDD), with automated tests
 
 A full-stack application built with React and TypeScript, featuring input validation, server-side API handling, and reusable components.
 
+## 📚 Currently Learning
+
+* Cybersecurity fundamentals and secure software development
+* Software testing and quality assurance
+* Backend development with Python and Java
+* Relational databases and SQL
+* API development and integration
+* CI/CD and developer tooling
+
+
 
 
 
