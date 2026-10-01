@@ -49,6 +49,21 @@ I'm interested in creating reliable software, understanding how systems work, an
 * Input validation
 * Secure software development
 
+## 🚀 Featured Projects
+
+### 🔐 Secure Authentication & Password Protection System
+
+A Python security project focused on secure authentication, password protection, failed-login handling, account lockout, security logging, and automated testing.
+
+### 🧪 Appointment Booking System
+
+A Python project built using Test-Driven Development (TDD), with automated tests for input validation, date and time handling, edge cases, and appointment booking logic.
+
+### 💻 AI Mate Buddy
+
+A full-stack application built with React and TypeScript, featuring input validation, server-side API handling, and reusable components.
+
+
 
 
 
