@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Ayanda 👋🏽
+
+I'm a junior software developer building my skills in **Python, Java, testing, and cybersecurity**.
+
+I'm interested in creating reliable software, understanding how systems work, and learning how to build applications with security in mind.
+
 
 <!--
 **ayandadimpho/ayandadimpho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
